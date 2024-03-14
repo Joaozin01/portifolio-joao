@@ -7,8 +7,8 @@
     --color-base: rgb(255, 255, 255);
     --color-base2: #f6ebeb;
     --color-brand: rgb(255, 255, 255);
-    --color-brand2: #9b6767;
-    --button-bg: #b17a98;
+    --color-brand2: #88b6b0;
+    --button-bg: #80bb85;
     --sidbar-width: 210px;
     --font-base: "Poppins";
 }
@@ -50,7 +50,7 @@ img {
 }
 
 .text-brand {
-    color: rgb(117, 78, 153);
+    color: rgb(96, 49, 141);
 }
 
 .sub{
