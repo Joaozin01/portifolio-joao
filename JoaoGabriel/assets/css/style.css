@@ -97,7 +97,7 @@ img {
 /* NAVBAR */
 .navbar {
 
-    background-color: rgb(29, 63, 63);
+    background-color: rgba(29, 63, 63, 0.568);
     box-shadow: 1px 1px 1px 1px rgb(255, 255, 255);
 
 }
@@ -208,15 +208,14 @@ img {
     transform: scale(1.1);
 }
 
-
-
-/* SOCIAL ICONS */
 .social-icons:hover {
     color: #391e2d;
     transform: scale(1.1);
     transition: all 0.4s;
 }
 
+
+/* SOCIAL ICONS */
 .social-icons a {
     color: rgb(251, 251, 251);
     width: 60px;
@@ -224,7 +223,7 @@ img {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background-color:;
+    background-color: transparent;
     border-radius: 5px;
     font-size: 40px;
 }
@@ -234,8 +233,3 @@ img {
     text-align: center;
     display: flex;
 }
-
-
-
-
-
