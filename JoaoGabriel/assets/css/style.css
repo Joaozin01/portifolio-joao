@@ -3,10 +3,10 @@
 :root {
   --color-heading: #ffffff;
   --color-base: rgb(255, 255, 255);
-  --color-base2: #f6ebeb;
+  --color-base2: #b4eebb;
   --color-brand: rgb(255, 255, 255);
-  --color-brand2: #57dbec;
-  --button-bg: #a42cdb;
+  --color-brand2: #76f0f0;
+  --button-bg: #40db2c;
   --sidbar-width: 210px;
   --font-base: "Poppins";
 }
@@ -35,7 +35,7 @@ p {
 }
 
 .text-h1:hover {
-  color: #7414f1cb;
+  color: #3beb17cb;
 }
 
 a {
@@ -53,7 +53,7 @@ img {
 }
 
 .text-brand {
-  color: rgb(169, 43, 241);
+  color: rgb(43, 241, 59);
 }
 
 .sub {
@@ -99,7 +99,7 @@ img {
 
 /* NAVBAR */
 .navbar {
-  background-color: rgba(189, 95, 181, 0.363);
+  background-color: rgba(95, 189, 153, 0.363);
   box-shadow: 1px 1px 1px 1px rgb(255, 255, 255);
 }
 
@@ -109,7 +109,7 @@ img {
 }
 
 .navbar .nav-link:hover {
-  color: #ee17ee;
+  color: #3bee17;
 }
 
 .navbar .nav-link.active {
